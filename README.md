@@ -65,3 +65,5 @@ Feel free to submit issues and pull requests. Contributions are always welcome!
 This project is licensed under the MIT License.
 
 Made by Deepti Gupta
+- [GitHub Profile](https://github.com/Deeptig9138)
+- [LinkedIn Profile](www.linkedin.com/in/-deepti-gupta)
