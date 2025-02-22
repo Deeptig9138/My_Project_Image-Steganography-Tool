@@ -53,10 +53,10 @@ Enter the Password to view the hidden message.
 - Message Extraction: Reads pixel data to reconstruct the hidden message.
 
 ### Example of Encrypted Image
-![Encrypted Image]("C:\Users\Admin\OneDrive\Pictures\Screenshots\Screenshot 2025-02-22 133720.png")
+![Encrypted Image]("https://github.com/Deeptig9138/My_Project_Image-Steganography-Tool/blob/main/Images/encrypted.png")
 
 ### Example of Decrypted Image
-![Decrypted Image]("C:\Users\Admin\OneDrive\Pictures\Screenshots\Screenshot 2025-02-22 133741.png")
+![Decrypted Image]("https://github.com/Deeptig9138/My_Project_Image-Steganography-Tool/blob/main/Images/decrypted.png")
 
 ## 🤖 Contributing
 Feel free to submit issues and pull requests. Contributions are always welcome!
