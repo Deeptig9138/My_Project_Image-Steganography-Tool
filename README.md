@@ -52,6 +52,12 @@ Enter the Password to view the hidden message.
 - Password Protection: Prevents unauthorized message retrieval.
 - Message Extraction: Reads pixel data to reconstruct the hidden message.
 
+### Example of Encrypted Image
+![Encrypted Image]("C:\Users\Admin\OneDrive\Pictures\Screenshots\Screenshot 2025-02-22 133720.png")
+
+### Example of Decrypted Image
+![Decrypted Image]("C:\Users\Admin\OneDrive\Pictures\Screenshots\Screenshot 2025-02-22 133741.png")
+
 ## 🤖 Contributing
 Feel free to submit issues and pull requests. Contributions are always welcome!
 
