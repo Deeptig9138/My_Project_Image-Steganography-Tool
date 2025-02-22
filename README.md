@@ -2,12 +2,14 @@
 Welcome to the **Image Steganography Tool**, a powerful yet simple application to **hide secret messages inside images** and **reveal them with a password**! 🕵️‍♂️🖼️
 
 ## 🚀 Features
+
 - **Encrypt Messages:** Embed your secret message into any image.
 - **Password Protection:** Secure your messages with a password.
 - **Decrypt Messages:** Retrieve hidden messages using the correct password.
 - **User-Friendly GUI:** Simple interface for encryption, terminal-based decryption.
 
 ## 📂 Project Structure
+
 📦 Image Steganography Tool
 ├── stego_encrypt.py       # Main GUI application for encryption
 ├── stego_decrypt.py       # Terminal-based decryption script
@@ -18,6 +20,7 @@ Welcome to the **Image Steganography Tool**, a powerful yet simple application t
 └── README.md              # Project documentation
 
 ## 💻 How to Use
+
 ### 1. Installation
 Clone the repository and install the required packages:
 ```
@@ -26,7 +29,7 @@ cd image-steganography-tool
 pip install -r requirements.txt
 ```
 
-2. Encryption (GUI)
+### 2. Encryption (GUI)
 Run the stego.py file to launch the GUI:
 ```
 python stego.py
@@ -36,7 +39,7 @@ python stego.py
 - Set a Password 🔐
 - Click 'Encrypt and Save' ✅
 
-3. Decryption (Terminal)
+### 3. Decryption (Terminal)
 Run the stego_decrypt.py file to decrypt the message:
 ```
 python stego_decrypt.py
