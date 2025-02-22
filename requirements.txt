@@ -1,0 +1,4 @@
+pip==25.0.1
+opencv-python==4.8.0.74
+Pillow==10.3.0
+tk==0.1.0
