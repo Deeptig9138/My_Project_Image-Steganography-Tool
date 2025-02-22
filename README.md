@@ -9,7 +9,7 @@ Welcome to the **Image Steganography Tool**, a powerful yet simple application t
 - **User-Friendly GUI:** Simple interface for encryption, terminal-based decryption.
 
 ## 📂 Project Structure
-
+```
 📦 Image Steganography Tool
 ├── stego_encrypt.py       # Main GUI application for encryption
 ├── stego_decrypt.py       # Terminal-based decryption script
@@ -18,6 +18,7 @@ Welcome to the **Image Steganography Tool**, a powerful yet simple application t
 ├── encryptedImage.jpg     # Output image with hidden message
 ├── requirements.txt       # Python dependencies
 └── README.md              # Project documentation
+```
 
 ## 💻 How to Use
 
